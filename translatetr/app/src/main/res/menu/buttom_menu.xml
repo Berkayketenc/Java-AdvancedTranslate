@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_birinci"
+        android:icon="@drawable/resimen"
+        android:title="EN" />
+    <item
+        android:id="@+id/nav_ucuncu"
+        android:icon="@drawable/resimgn"
+        android:title="GN" />
+</menu>
